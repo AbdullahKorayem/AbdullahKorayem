@@ -1,15 +1,11 @@
-### Hi there 👋
-
-
-
-  <div >
+ <div>
         <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AbdullahKorayem.AbdullahKorayem" alt="Visitor Badge" />
-    </div>
+  </div>
     <h1 align="center">
         <img src="https://readme-typing-svg.herokuapp.com/?font=SFProDisplay&size=30&center=true&vCenter&width=500&height=70&duration=4000&lines=Hi+there!+👋🏼;+I'm+Abdullah+Korayem" alt="Typing Animation" />
     </h1>
     <h3 align="center">Passionate software developer from Egypt</h3>
-    <div align="center">
+    <div align="left">
         - 🔭 Working on becoming a software engineer & Full Stack Developer.<br>
         - 🌱 Currently teaching myself web development<br>
         - 🚀 I’m currently learning **Reactjs**.<br>
@@ -25,6 +21,8 @@
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
   </div>
+
+
   
 <!--
 **AbdullahKorayem/AbdullahKorayem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
