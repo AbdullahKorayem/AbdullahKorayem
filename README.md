@@ -1,12 +1,9 @@
- Hi there 👋
+### Hi there 👋
 
 
-<div style="float: right;">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=AbdullahKorayem.AbdullahKorayem.visitor-badge&left_text=MyPageVisitors" alt="Visitor Badge" />
-</div>
 
-  <div align="center">
-        <img src="https://visitor-badge.laobi.icu/badge?page_id=AbdullahKorayem.AbdullahKorayem" alt="Visitor Badge" />
+  <div >
+        <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AbdullahKorayem.AbdullahKorayem" alt="Visitor Badge" />
     </div>
     <h1 align="center">
         <img src="https://readme-typing-svg.herokuapp.com/?font=SFProDisplay&size=30&center=true&vCenter&width=500&height=70&duration=4000&lines=Hi+there!+👋🏼;+I'm+Abdullah+Korayem" alt="Typing Animation" />
