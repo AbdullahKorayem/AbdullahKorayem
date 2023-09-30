@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors)
-<img align="right" src="https://visitor-badge.Iaobi.icu/badge?page_id=AbdullahKorayem.AbdullahKorayem" / >
+
+<div style="float: right;">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=AbdullahKorayem.AbdullahKorayem.visitor-badge&left_text=MyPageVisitors" alt="Visitor Badge" />
+</div>
 
   <div align="center">
         <img src="https://visitor-badge.laobi.icu/badge?page_id=AbdullahKorayem.AbdullahKorayem" alt="Visitor Badge" />
