@@ -13,7 +13,6 @@
         - 🌍 Exploring the endless possibilities of technology.<br><br>
         - 📫 Email me: <a href="mailto:abdullahkorayemhassan@gmail.com">abdullahkorayemhassan@gmail.com</a><br><br>
         - ⚡ Fun Fact : <strong>RDR2</strong> is a Masterpiece.<br><br>
-        
     </div>
     <div align="center">
         <a href="mailto:abdullahkorayemhassan@gmail.com">
